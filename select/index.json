@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "≠ME（ノットイコールミー）「3rd ANNIVERSARY PREMIUM CONCERT」2022.2.23 (wed) 東京国際フォーラム ホールA【For J-LOD】",
+  "base_artist": "≠ME",
+  "createdAt": "2026-03-03T07:54:59.494921Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "≠ME",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_≠ME_≠ME.txt"
+    }
+  ]
+}
